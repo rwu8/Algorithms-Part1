@@ -170,6 +170,4 @@ public class Board {
         System.out.println("manhattan: " + board.manhattan());
         System.out.println("neighbors:\n" + board.neighbors());
     }
-
-
 }
